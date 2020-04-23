@@ -86,7 +86,7 @@ def display_images(image, description):
 
 
 epsilons = [0, 0.01, 0.1, 0.15]
-descriptions = 'λ = 0.22, α = 1 ' 
+descriptions = "λ = 0.22, α = 1"
 
 
 
